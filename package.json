@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo-course",
+  "version": "1.0.0",
+  "description": "work with asynchronism in JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "@diegobrice",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
